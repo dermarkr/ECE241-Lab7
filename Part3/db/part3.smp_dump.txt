@@ -1,0 +1,13 @@
+
+State Machine - |main|controller:c0|current_state
+Name current_state.S_WAIT current_state.S_DRAW current_state.S_ERASE current_state.S_START 
+current_state.S_START 0 0 0 0 
+current_state.S_ERASE 0 0 1 1 
+current_state.S_DRAW 0 1 0 1 
+current_state.S_WAIT 1 0 0 1 
+
+State Machine - |main|controller:c0|next_state
+Name next_state.S_WAIT next_state.S_ERASE next_state.S_DRAW 
+next_state.S_ERASE 0 0 0 
+next_state.S_DRAW 0 1 1 
+next_state.S_WAIT 1 1 0 

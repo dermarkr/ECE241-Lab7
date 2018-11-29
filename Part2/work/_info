@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//SRVC/Homes$$/dermark1/Desktop/ECE241/Lab7/Part2
+vcontrol
+!s110 1541458019
+!i10b 1
+!s100 _lfa4BAlz4eBCLle=HOAI2
+IMQ9GNii2]4=>m;Tb5JVAc0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1541457962
+Z2 8main.v
+Z3 Fmain.v
+L0 86
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1541458018.000000
+!s107 main.v|
+Z5 !s90 -reportprogress|300|main.v|
+!i113 1
+Z6 tCvgOpt 0
+vcontroller
+Z7 !s110 1541563576
+!i10b 1
+!s100 46WJDDF[mJcVIXJW5E19I0
+I6z?ZKGENozH0X94iHo4dh1
+R1
+Z8 dC:/Users/Bob/Desktop/ECE241/Labs/Lab7/Part2
+Z9 w1541563208
+R2
+R3
+L0 89
+R4
+r1
+!s85 0
+31
+Z10 !s108 1541563576.000000
+Z11 !s107 main.v|
+R5
+!i113 1
+R6
+vdatapath
+R7
+!i10b 1
+!s100 IEjnoX6fS^6`f4GkaPKED3
+ITD_I6lW_IGSe^7m8RVAoC3
+R1
+R8
+R9
+R2
+R3
+L0 189
+R4
+r1
+!s85 0
+31
+R10
+R11
+R5
+!i113 1
+R6
+vmain
+R7
+!i10b 1
+!s100 ?F@RS3Cd22Gj?`8mNiH[G2
+Ii;Z5=?zzk^jT5WOgiYLQW0
+R1
+R8
+R9
+R2
+R3
+L0 3
+R4
+r1
+!s85 0
+31
+R10
+R11
+R5
+!i113 1
+R6

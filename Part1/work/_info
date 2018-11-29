@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Bob/Desktop/ECE241/Labs/Lab7/Part1
+vhex_decoder
+Z1 !s110 1541565767
+!i10b 1
+!s100 L1j<=j3bZW[l`DjO^=4Kb0
+I22?]D6i1L0_=R@S:=Uzk=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1541565627
+Z4 8main.v
+Z5 Fmain.v
+L0 27
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1541565767.000000
+Z8 !s107 main.v|
+Z9 !s90 -reportprogress|300|main.v|
+!i113 1
+Z10 tCvgOpt 0
+vmain
+R1
+!i10b 1
+!s100 JRZNN6O_UU6Kh6Tl1RUPo1
+IbkPa<Yhe4aM_RmbYz;GBB3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vram32x4
+R1
+!i10b 1
+!s100 gBHn3@cNmmAX=QNm@^PSn3
+I9e0HWKimE=ioQ:EC`Hec12
+R2
+R0
+w1541267868
+8ram32x4.v
+Fram32x4.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+!s107 ram32x4.v|
+!s90 -reportprogress|300|ram32x4.v|
+!i113 1
+R10

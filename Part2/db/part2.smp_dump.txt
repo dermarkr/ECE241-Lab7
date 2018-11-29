@@ -1,0 +1,16 @@
+
+State Machine - |main|controller:c0|current_state
+Name current_state.S_LOAD_Y_WAIT current_state.S_LOAD_Y current_state.S_LOAD_X_WAIT current_state.S_LOAD_X current_state.S_DRAW 
+current_state.S_LOAD_X 0 0 0 0 0 
+current_state.S_LOAD_X_WAIT 0 0 1 1 0 
+current_state.S_LOAD_Y 0 1 0 1 0 
+current_state.S_LOAD_Y_WAIT 1 0 0 1 0 
+current_state.S_DRAW 0 0 0 1 1 
+
+State Machine - |main|controller:c0|next_state
+Name next_state.S_LOAD_Y_WAIT next_state.S_LOAD_Y next_state.S_LOAD_X_WAIT next_state.S_LOAD_X next_state.S_DRAW 
+next_state.S_LOAD_X 0 0 0 0 0 
+next_state.S_LOAD_X_WAIT 0 0 1 1 0 
+next_state.S_LOAD_Y 0 1 0 1 0 
+next_state.S_LOAD_Y_WAIT 1 0 0 1 0 
+next_state.S_DRAW 0 0 0 1 1 

@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//SRVC/Homes$$/dermark1/Desktop/ECE241/Lab7/Part3v2
+vcontroller
+Z0 !s110 1541571254
+!i10b 1
+!s100 O]hVU3hSSfiIJTcR;Zz;U3
+I`ZXnJE@TO^2HOL2T2nFPi3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/ECE241/Lab7/Part3
+Z3 w1541567748
+Z4 8main.v
+Z5 Fmain.v
+L0 91
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1541571254.000000
+Z8 !s107 main.v|
+Z9 !s90 -reportprogress|300|main.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R0
+!i10b 1
+!s100 kF]]W;kiS^G4?QQ?GIiQ52
+I2>KhNIa9AbCJMQ29@BJBe3
+R1
+R2
+R3
+R4
+R5
+L0 208
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vmain
+R0
+!i10b 1
+!s100 m4U2;_MU97X^hhF`:;29L3
+I>?N]KfiR]f<Yb;bdglz092
+R1
+R2
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
